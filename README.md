@@ -2,6 +2,9 @@
 
 An AI-powered outfit recommendation application built with Next.js, Google's Gemini AI for text recommendations, and NVIDIA's Consistory API for outfit image generation.
 
+![Uploading Screenshot 2025-04-27 230439.jpg…]()
+
+
 ## Quick Start with Docker (3 Simple Steps)
 
 ### Prerequisites
