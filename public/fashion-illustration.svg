@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Background Circle -->
+  <circle cx="250" cy="250" r="200" fill="#f2f2ff" />
+  
+  <!-- Clothes Rack -->
+  <rect x="100" y="150" width="300" height="10" rx="5" fill="#6366F1" />
+  <line x1="120" y1="150" x2="120" y2="100" stroke="#6366F1" stroke-width="8" />
+  <line x1="380" y1="150" x2="380" y2="100" stroke="#6366F1" stroke-width="8" />
+  <rect x="90" y="90" width="320" height="20" rx="10" fill="#4F46E5" />
+  
+  <!-- Hangers with Clothes -->
+  <!-- Shirt -->
+  <path d="M180,160 L150,200 L150,280 L210,280 L210,200 L180,160" fill="#A78BFA" stroke="#7C3AED" stroke-width="2" />
+  <path d="M180,160 L175,180 L185,180 Z" fill="#7C3AED" />
+  <path d="M150,230 L210,230" stroke="#7C3AED" stroke-width="2" />
+  <path d="M165,230 L165,280" stroke="#7C3AED" stroke-width="2" />
+  <path d="M195,230 L195,280" stroke="#7C3AED" stroke-width="2" />
+  
+  <!-- Dress -->
+  <path d="M250,160 L230,200 L220,290 L280,290 L270,200 L250,160" fill="#FBCFE8" stroke="#DB2777" stroke-width="2" />
+  <path d="M250,160 L245,180 L255,180 Z" fill="#DB2777" />
+  <path d="M240,200 L260,200" stroke="#DB2777" stroke-width="2" />
+  <path d="M235,230 L265,230" stroke="#DB2777" stroke-width="2" />
+  <path d="M230,260 L270,260" stroke="#DB2777" stroke-width="2" />
+  
+  <!-- Jacket -->
+  <path d="M320,160 L300,190 L300,270 L340,270 L340,190 L320,160" fill="#93C5FD" stroke="#2563EB" stroke-width="2" />
+  <path d="M320,160 L315,180 L325,180 Z" fill="#2563EB" />
+  <path d="M300,220 L320,220 L320,270" stroke="#2563EB" stroke-width="2" />
+  <path d="M340,220 L320,220" stroke="#2563EB" stroke-width="2" />
+  
+  <!-- Hangers -->
+  <path d="M180,160 L180,150" stroke="#6366F1" stroke-width="2" />
+  <path d="M250,160 L250,150" stroke="#6366F1" stroke-width="2" />
+  <path d="M320,160 L320,150" stroke="#6366F1" stroke-width="2" />
+  
+  <!-- Accessories -->
+  <!-- Hat -->
+  <ellipse cx="130" cy="330" rx="30" ry="10" fill="#FCD34D" />
+  <path d="M115,330 Q130,300 145,330" fill="#FBBF24" stroke="#FBBF24" stroke-width="1" />
+  
+  <!-- Shoes -->
+  <path d="M360,340 Q380,320 400,340 L400,350 Q380,340 360,350 Z" fill="#1F2937" />
+  <path d="M320,340 Q340,320 360,340 L360,350 Q340,340 320,350 Z" fill="#1F2937" />
+  
+  <!-- Decorative Elements -->
+  <circle cx="400" cy="200" r="15" fill="#FCA5A5" />
+  <circle cx="100" cy="200" r="15" fill="#A5F3FC" />
+  <circle cx="250" cy="350" r="20" fill="#C7D2FE" />
+  
+  <!-- Text "FASHION" -->
+  <text x="250" y="400" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#4F46E5">FASHION</text>
+</svg> 
