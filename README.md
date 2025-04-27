@@ -77,6 +77,6 @@ cp .env.example .env.local
   - NVIDIA Consistory API (image generation)
 - **Deployment**: Docker containerization for easy setup
 
-## License
+## Conatact
 
-This project is licensed under the MIT License.
+ boggavarapumohanmahesh@gmail.com 
