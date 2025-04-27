@@ -59,18 +59,7 @@ Copy the `.env.example` file to `.env.local` and fill in your API keys:
 cp .env.example .env.local
 ```
 
-## GitHub Deployment
 
-To upload this project to GitHub:
-
-1. Create a repository on GitHub
-2. Initialize git and push your code:
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/your-username/outfit-recommender.git
-git push -u origin main
 ```
 
 ## Features
